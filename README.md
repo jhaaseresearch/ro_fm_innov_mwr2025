@@ -6,3 +6,6 @@ Collection of unique software used for the evaluation of
    ./scripts <-- python & NCL scripts used to process and plot the JEDI output
    
    ./nbam    <-- changes to the NBAM forward model within JEDI
+
+~ MJ Murphy
+  24 May 2025
